@@ -1,0 +1,10 @@
+1 - Move data between systems through Extract - Transform - Load
+Extract: Get structured and unstructured data from various sources (API, json, databases, static files) 
+Transform : Via different methods, filtering, mapping, aggregating, enrichment, changing the structure etc
+Load : Send the data to the destination, data lake, warehouse, cloud, cache database
+
+2- Manage data warehouse: 
+Data Modeling : partitions, handling fact and dimension tables (Kimball modeling, Data Vault, Data Lake)
+Data quality : with tools like dbt
+Warehouse performance: Query optimization, scaling warehouses/
+
